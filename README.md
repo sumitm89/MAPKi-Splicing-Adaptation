@@ -17,7 +17,7 @@ This study investigates the dynamics of differential transcript usage (DTU) duri
 - **Resistance-associated signaling:** Transiently altered transcripts are associated with pathways involved in MAPKi adaptation, including PI3K/AKT/mTOR and receptor tyrosine kinase signaling.
 - **Identification of adaptive states:** Transcript-usage-based classifiers outperform conventional gene-expression-based models in distinguishing no-treatment from on-treatment melanoma samples in the evaluated validation datasets.
 - **Developmental plasticity:** MAPKi-associated transcript remodeling recapitulates melanoblast-associated developmental splicing programs.
-- **Candidate splicing regulators:** Computational modeling identifies seven candidate factors associated with the transient isoform program, particularly MBNL2, DDX5, and AHNAK.
+- **Splicing regulators:** Computational modeling identifies seven regulators associated with the transient isoform program, particularly MBNL2, DDX5, and AHNAK.
 
 ## Publicly Available Datasets
 
@@ -116,9 +116,9 @@ Rscript scripts/splicing_factor_plsr.R
 
 ## Reproducibility and Availability
 
-This repository provides selected computational scripts, transcript quantification files, and processed prediction data supporting the manuscript.
+This repository provides main selected computational scripts, transcript quantification files as samples, and processed prediction data supporting the manuscript.
 
-The repository does not currently include every upstream processing and model-training step, including the complete pseudo-bulk generation workflow, classifier training, and developmental exon-usage analysis. These components should not be considered fully reproducible from the repository alone.
+The repository does not currently include every upstream processing and model-training step, including the complete pseudo-bulk generation workflow, classifier training, and exon-usage analysis. These components should not be considered fully reproducible from the repository alone.
 
 Raw sequencing data are available through the corresponding public accession records.
 
@@ -132,7 +132,7 @@ The complete publication citation and DOI will be updated after publication.
 
 ## Contact
 
-**Sumit Mukherjee**  
+**Sumit Mukherjee, Ph.D.**  
 Cancer Data Science Laboratory  
 National Cancer Institute, National Institutes of Health, USA  
 Email: mukherjee.sumit89@gmail.com
