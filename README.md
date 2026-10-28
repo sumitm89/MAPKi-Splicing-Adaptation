@@ -8,6 +8,8 @@ A long-standing question in cancer therapeutics is how tumor cells rapidly adapt
 
 This study investigates the dynamics of differential transcript usage (DTU) during MAPKi treatment by integrating bulk and single-cell RNA-seq datasets from melanoma cell lines, murine models, patient-derived xenografts, and patient samples.
 
+<img width="2752" height="1536" alt="Figure 1" src="https://github.com/user-attachments/assets/0c3ef254-b4cd-48d3-a55e-b2551873a0e4" />
+
 ## Key Findings
 
 - **Transient isoform remodeling:** Differential transcript usage is most prominent during the early on-treatment adaptive state and is substantially attenuated following the emergence of acquired resistance.
